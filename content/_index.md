@@ -55,7 +55,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: '📝 Recent Publications'
       text: ""
       filters:
         folders:
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: competitions
     content:
-      title: Competitions
+      title: '🤺 Competitions'
       filters:
         folders:
           - event
@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: awards
     content:
-      title: Awards
+      title: '🏅 Awards'
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
