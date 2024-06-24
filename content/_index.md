@@ -73,7 +73,16 @@ sections:
     design:
       view: article-grid
       columns: 3
-    
+  - block: markdown
+    id: awards
+    content:
+      title: '🏅 Awards'
+      subtitle: ''
+      text: |-
+        - *2023.10* **National Scholarship for Graduated Students.**
+        - *2022.10* **The First Prize Scholarship of CHU.**
+    design:
+      columns: '1'  
   # - block: collection
   #   id: awards
   #   content:
