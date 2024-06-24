@@ -12,6 +12,6 @@ publishDate: '2022-12-01'
 authors:
   - admin
 
-projects:
-  - example
+# projects:
+#   - example
 ---
