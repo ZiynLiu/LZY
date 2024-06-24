@@ -31,25 +31,15 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 2022135032@chd.edu.cn
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=mkLleBIAAAAJ&hl=en
 
 interests:
   - Carbon Emission
-  - Sustainable Development Goals (SDGs)
-  - Machine Learning Application in Geography
+  - Sustainable Development Goals
+  - Machine Learning in Geography
 
 education:
   - area: M.S. Land Resource Management
