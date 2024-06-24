@@ -38,10 +38,7 @@ sections:
         Recently, my research focuses on carbon emissions estimation, spatialization and spatiotemporal analysis.
 
         **My skills include:**
-        ![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
-        ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-        ![googleearthengine](https://img.shields.io/badge/googleearthengine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
-        ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+        ![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)![googleearthengine](https://img.shields.io/badge/googleearthengine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
         
