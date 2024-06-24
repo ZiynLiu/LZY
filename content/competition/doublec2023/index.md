@@ -4,10 +4,10 @@ summary: The Third Prize (Rank 2/5)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12'
+date: '2023-12-01'
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-12'
+publishDate: '2023-12-01'
 
 authors:
   - admin
