@@ -2,7 +2,7 @@
 title: 'Spatiotemporal characteristics of carbon emissions in shaanxi, china, during
   2012–2019: a machine learning method with multiple variables'
 authors:
-- Ziyan Liu
+- **Ziyan Liu**
 - Ling Han
 - Ming Liu
 date: '2023-07-01'

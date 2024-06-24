@@ -2,10 +2,10 @@
 title: Changes of spatial disparities in satellite-derived pm2.5 exposures over 2010–2019
   in china
 authors:
-- M. Liu
-- G. Zhou
-- Z. Liu
-- L. Han
+- Ming Liu
+- Gaoxiang Zhou
+- **Ziyan Liu**
+- Ling Han
 - J. Li
 date: '2022-05-01'
 publishDate: '2024-06-24T07:55:36.758761Z'

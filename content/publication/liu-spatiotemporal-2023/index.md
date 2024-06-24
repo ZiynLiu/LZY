@@ -3,7 +3,7 @@ title: 'Spatiotemporal disparity and environmental inequality in fossil fuel car
   emissions in china: 2010-2019'
 authors:
 - Ming Liu
-- Ziyan Liu
+- ** Ziyan Liu* **
 - Gaoxiang Zhou
 - Ying Wang
 - Xuanchen Liu
