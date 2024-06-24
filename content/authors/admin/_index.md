@@ -3,7 +3,7 @@
 title: 刘 子 彦
 
 # Name pronunciation (optional)
-name_pronunciation: Ziyan Liu
+name_pronunciation: Zi yan Liu
 
 # Full name (for SEO)
 first_name: Zi yan
