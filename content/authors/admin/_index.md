@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 刘子彦
+title: 刘 子 彦
 
 # Name pronunciation (optional)
 name_pronunciation: Ziyan Liu
 
 # Full name (for SEO)
-first_name: Ziyan
+first_name: Zi yan
 last_name: Liu
 
 # Status emoji
