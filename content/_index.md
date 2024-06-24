@@ -32,14 +32,19 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research & Skills'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Recently, my research focuses on carbon emissions estimation, spatialization and spatiotemporal analysis.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        **My skills include:**
+        ![arcgis](https://img.shields.io/badge/arcgis-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
+        ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+        ![googleearthengine](https://img.shields.io/badge/googleearthengine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+        ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
