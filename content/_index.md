@@ -69,7 +69,7 @@ sections:
       title: '🤺 Competitions'
       filters:
         folders:
-          - event
+          - competition
     design:
       view: article-grid
       columns: 1
