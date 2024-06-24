@@ -11,10 +11,10 @@ main:
     url: /#papers
     weight: 11
   - name: Competitions
-    url: /#talks
+    url: /#competitions
     weight: 12
   - name: Awards
-    url: /#news
+    url: /#awards
     weight: 13
   - name: Experience
     url: experience/
