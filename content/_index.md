@@ -65,7 +65,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: competitions
     content:
       title: Competitions
       filters:
@@ -75,9 +75,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: awards
     content:
-      title: Recent News
+      title: Awards
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
