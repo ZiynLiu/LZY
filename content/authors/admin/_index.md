@@ -6,7 +6,7 @@ title: 刘 子 彦
 name_pronunciation: Liu Zi Yan
 
 # Full name (for SEO)
-first_name: Zi yan
+first_name: Ziyan
 last_name: Liu
 
 # Status emoji
