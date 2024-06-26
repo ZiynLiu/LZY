@@ -164,4 +164,4 @@ skills:
 
 ## About Me
 
-I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China, supervised by Prof. Ling Han and [Associate Prof.Ming Liu](https://js.chd.edu.cn/sle/lm2/list.htm).
+I was born and grown in Anqing, Anhui Province, China. Now, I am a master student in the [Chang'an University (CHU)](https://www.chd.edu.cn/), supervised by [Prof. Ling Han](https://js.chd.edu.cn/sle/hl103/list.htm). I received the bachelor's Degree (2018-2022) from the [School of Land Engineering](https://sle.chd.edu.cn/), Chang'an University,China.
